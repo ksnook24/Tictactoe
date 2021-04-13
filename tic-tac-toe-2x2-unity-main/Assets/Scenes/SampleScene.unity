@@ -267,6 +267,14 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
+      propertyPath: Sword
+      value: 
+      objectReference: {fileID: 21300000, guid: d8740c476837b9b408a86beaa5866aa7, type: 3}
+    - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
+      propertyPath: Shield
+      value: 
+      objectReference: {fileID: 21300000, guid: ffe4a182a13c29d4e85fd32cd9a5e0d1, type: 3}
+    - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
       propertyPath: tileManager
       value: 
       objectReference: {fileID: 572977237}
@@ -327,6 +335,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
+      propertyPath: Sword
+      value: 
+      objectReference: {fileID: 21300000, guid: d8740c476837b9b408a86beaa5866aa7, type: 3}
+    - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
+      propertyPath: Shield
+      value: 
+      objectReference: {fileID: 21300000, guid: ffe4a182a13c29d4e85fd32cd9a5e0d1, type: 3}
     - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
       propertyPath: tileManager
       value: 
@@ -509,6 +525,14 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
+      propertyPath: Sword
+      value: 
+      objectReference: {fileID: 21300000, guid: d8740c476837b9b408a86beaa5866aa7, type: 3}
+    - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
+      propertyPath: Shield
+      value: 
+      objectReference: {fileID: 21300000, guid: ffe4a182a13c29d4e85fd32cd9a5e0d1, type: 3}
+    - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
       propertyPath: tileManager
       value: 
       objectReference: {fileID: 572977237}
@@ -628,6 +652,14 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
+      propertyPath: Sword
+      value: 
+      objectReference: {fileID: 21300000, guid: d8740c476837b9b408a86beaa5866aa7, type: 3}
+    - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
+      propertyPath: Shield
+      value: 
+      objectReference: {fileID: 21300000, guid: ffe4a182a13c29d4e85fd32cd9a5e0d1, type: 3}
+    - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
       propertyPath: tileManager
       value: 
       objectReference: {fileID: 572977237}
@@ -688,6 +720,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
+      propertyPath: Sword
+      value: 
+      objectReference: {fileID: 21300000, guid: d8740c476837b9b408a86beaa5866aa7, type: 3}
+    - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
+      propertyPath: Shield
+      value: 
+      objectReference: {fileID: 21300000, guid: ffe4a182a13c29d4e85fd32cd9a5e0d1, type: 3}
     - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
       propertyPath: tileManager
       value: 
@@ -760,6 +800,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
+      propertyPath: Sword
+      value: 
+      objectReference: {fileID: 21300000, guid: d8740c476837b9b408a86beaa5866aa7, type: 3}
+    - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
+      propertyPath: Shield
+      value: 
+      objectReference: {fileID: 21300000, guid: ffe4a182a13c29d4e85fd32cd9a5e0d1, type: 3}
     - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
       propertyPath: tileManager
       value: 
@@ -1377,6 +1425,14 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
+      propertyPath: Sword
+      value: 
+      objectReference: {fileID: 21300000, guid: d8740c476837b9b408a86beaa5866aa7, type: 3}
+    - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
+      propertyPath: Shield
+      value: 
+      objectReference: {fileID: 21300000, guid: ffe4a182a13c29d4e85fd32cd9a5e0d1, type: 3}
+    - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
       propertyPath: tileManager
       value: 
       objectReference: {fileID: 572977237}
@@ -1610,6 +1666,14 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
+      propertyPath: Sword
+      value: 
+      objectReference: {fileID: 21300000, guid: d8740c476837b9b408a86beaa5866aa7, type: 3}
+    - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
+      propertyPath: Shield
+      value: 
+      objectReference: {fileID: 21300000, guid: ffe4a182a13c29d4e85fd32cd9a5e0d1, type: 3}
+    - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
       propertyPath: tileManager
       value: 
       objectReference: {fileID: 572977237}
@@ -1671,9 +1735,17 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
+      propertyPath: Sword
+      value: 
+      objectReference: {fileID: 21300000, guid: d8740c476837b9b408a86beaa5866aa7, type: 3}
+    - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
       propertyPath: owner
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
+      propertyPath: Shield
+      value: 
+      objectReference: {fileID: 21300000, guid: ffe4a182a13c29d4e85fd32cd9a5e0d1, type: 3}
     - target: {fileID: 729078942912507414, guid: 09de0f895288f4495ae58af4b7f8e32f, type: 3}
       propertyPath: tileManager
       value: 

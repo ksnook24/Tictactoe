@@ -23,8 +23,8 @@ public class reset_button : MonoBehaviour
 
     public void OnClickReset()
     {
-        Tile.ClickReset();
-        return true;
+       // Tile.ClickReset();
+        //return true;
     }
 
 }

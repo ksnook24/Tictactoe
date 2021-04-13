@@ -59,13 +59,13 @@ public class TileManager : MonoBehaviour
         else if (Tiles[8].owner == CurrentPlayer && Tiles[0].owner == CurrentPlayer && Tiles[4].owner == CurrentPlayer)
             won = true;
 
-        void ScoreDisplay(int indexIn)
-        {
-            if (CurrentPlayer == Owner.Sword)
-                SwordScore++;
-            else if (CurrentPlayer == Owner.Shield)
-                ShieldScore++;
-        }
+        //void ScoreDisplay(int indexIn)
+        //{
+         //   if (CurrentPlayer == Owner.Sword)
+         //       SwordScore++;
+          //  else if (CurrentPlayer == Owner.Shield)
+          //      ShieldScore++;
+        //}
         
         if (won)
         {
